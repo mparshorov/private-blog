@@ -1,3 +1,7 @@
+## Prerequisites
+
+Make sure you have the current latest [NodeJS](https://nodejs.org/en/download/current/) installed (=>v6.7.0)
+
 ## Description
 
 This is a personal project utilizing ReactJs. It's basically a personal blog. It stores your posts in *localStorage*, so if you clear your cache you will lose all you have changed, so don't count on it too much.
