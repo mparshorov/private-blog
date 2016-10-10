@@ -105,7 +105,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-            <h1>My Private Blog<br/><small>Note: The blog stores your posts in the browser's cache, if you clear your cache you may lose your posts.</small></h1>
+            <h1>My Private Blog<br/><small>Note: The blog stores your posts in the browsers cache, if you clear your cache you may lose your posts.</small></h1>
             <Button bsStyle="primary" bsSize="large" onClick={ ()=> this.setState({ open: !this.state.open })}>+ Add Blog Post</Button>
         </div>
         <Grid>
